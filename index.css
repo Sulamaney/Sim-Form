@@ -1,0 +1,60 @@
+.bin {
+    background-color: linear-gradient(180deg, #F6F5FE, #FFFFFF);
+}
+.foe {
+    font-size: 38px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 6%;
+}
+.mojo {
+    font-size: 38px;
+    line-height: 47px;
+    color: #3d3d3d;
+    font-weight: 700;
+}
+.wego {
+    border-width: 10px;
+    border-bottom-color: red;
+}
+.sn{
+    font-size: 24px;
+    line-height: 0px;
+    color: black;
+    font-weight: 700;
+    
+}
+.str{
+    box-shadow: 0px 0px 4px black;
+}
+.bull {
+    font-size: 24px;
+    line-height: 30px;
+    color: #3d3d3d;
+    font-weight: 700;
+}
+.delel {
+    overflow: hidden;
+    overflow-x: auto;
+}
+.ffe {
+    margin-left: 25px;
+}
+.cent {
+    box-shadow: 0px 0px 5px black;
+    width: fit-content;
+    padding: 30px 30px;
+    padding-bottom: 0px;
+}
+.sobo {
+    font-size: 19px;
+    line-height: 24px;
+    font-weight: 700;
+    color: #3d3d3d;
+}
+.gobo {
+    font-size: 15px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #3d3d3d;
+}
